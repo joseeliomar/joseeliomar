@@ -108,7 +108,7 @@ My name is José Eliomar, I am a Java developer with over 5 years of experience,
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=joseeliomar&show_icons=true&theme=tokyonight&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=joseeliomar&show_icons=true&theme=tokyonight&include_all_commits=false" 
   />
 
 <img 
@@ -117,4 +117,5 @@ My name is José Eliomar, I am a Java developer with over 5 years of experience,
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseeliomar&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
+
 </p>
