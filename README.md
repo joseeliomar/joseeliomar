@@ -107,7 +107,7 @@ My name is José Eliomar, I am a Java developer with over 5 years of experience,
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; padding-bottom: 30px" 
     src="https://github-readme-stats.vercel.app/api?username=joseeliomar&show_icons=true&theme=tokyonight&include_all_commits=false" 
   />
 
