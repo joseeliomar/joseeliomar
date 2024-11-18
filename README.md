@@ -12,7 +12,7 @@ My name is José Eliomar, I am a Java developer with over 5 years of experience,
     align="left" 
     alt="Java"
     title="Java" 
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
@@ -20,15 +20,23 @@ My name is José Eliomar, I am a Java developer with over 5 years of experience,
     align="left" 
     alt="Spring" 
     title="Spring"
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
 <img 
     align="left" 
+    alt="Kafka" 
+    title="Kafka"
+    width="60px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
     alt="Oracle Database" 
     title="Oracle Database"
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
 />
@@ -36,7 +44,7 @@ My name is José Eliomar, I am a Java developer with over 5 years of experience,
     align="left" 
     alt="MySQL" 
     title="MySQL"
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
@@ -44,7 +52,7 @@ My name is José Eliomar, I am a Java developer with over 5 years of experience,
     align="left" 
     alt="PostgreSQL"
     title="PostgreSQL" 
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
@@ -52,7 +60,7 @@ My name is José Eliomar, I am a Java developer with over 5 years of experience,
     align="left" 
     alt="MongoDB" 
     title="MongoDB"
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 />
@@ -60,7 +68,7 @@ My name is José Eliomar, I am a Java developer with over 5 years of experience,
     align="left" 
     alt="Hibernate"
     title="Hibernate" 
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" 
 />
@@ -68,7 +76,7 @@ My name is José Eliomar, I am a Java developer with over 5 years of experience,
     align="left" 
     alt="Docker" 
     title="Docker"
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
@@ -76,7 +84,7 @@ My name is José Eliomar, I am a Java developer with over 5 years of experience,
     align="left" 
     alt="JUnit 5" 
     title="JUnit 5"
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" 
 />
@@ -84,7 +92,7 @@ My name is José Eliomar, I am a Java developer with over 5 years of experience,
     align="left" 
     alt="Postman" 
     title="Postman"
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
 />
@@ -92,7 +100,31 @@ My name is José Eliomar, I am a Java developer with over 5 years of experience,
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+</br>
+</br>
+</br>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px; padding-bottom: 30px" 
+    src="https://github-readme-stats.vercel.app/api?username=joseeliomar&show_icons=true&theme=tokyonight&include_all_commits=false" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseeliomar&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
+  />
+
+</p>
