@@ -12,7 +12,7 @@ My name is José Eliomar, I am a Java developer with over 5 years of experience,
     align="left" 
     alt="Java"
     title="Java" 
-    width="60px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
@@ -20,7 +20,7 @@ My name is José Eliomar, I am a Java developer with over 5 years of experience,
     align="left" 
     alt="Spring" 
     title="Spring"
-    width="60px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
@@ -28,7 +28,7 @@ My name is José Eliomar, I am a Java developer with over 5 years of experience,
     align="left" 
     alt="Kafka" 
     title="Kafka"
-    width="60px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" 
 />
@@ -36,7 +36,7 @@ My name is José Eliomar, I am a Java developer with over 5 years of experience,
     align="left" 
     alt="Oracle Database" 
     title="Oracle Database"
-    width="60px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
 />
@@ -44,7 +44,7 @@ My name is José Eliomar, I am a Java developer with over 5 years of experience,
     align="left" 
     alt="MySQL" 
     title="MySQL"
-    width="60px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
@@ -52,7 +52,7 @@ My name is José Eliomar, I am a Java developer with over 5 years of experience,
     align="left" 
     alt="PostgreSQL"
     title="PostgreSQL" 
-    width="60px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
@@ -60,7 +60,7 @@ My name is José Eliomar, I am a Java developer with over 5 years of experience,
     align="left" 
     alt="MongoDB" 
     title="MongoDB"
-    width="60px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 />
@@ -68,7 +68,7 @@ My name is José Eliomar, I am a Java developer with over 5 years of experience,
     align="left" 
     alt="Hibernate"
     title="Hibernate" 
-    width="60px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" 
 />
@@ -76,7 +76,7 @@ My name is José Eliomar, I am a Java developer with over 5 years of experience,
     align="left" 
     alt="Docker" 
     title="Docker"
-    width="60px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
@@ -84,7 +84,7 @@ My name is José Eliomar, I am a Java developer with over 5 years of experience,
     align="left" 
     alt="JUnit 5" 
     title="JUnit 5"
-    width="60px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" 
 />
@@ -92,7 +92,7 @@ My name is José Eliomar, I am a Java developer with over 5 years of experience,
     align="left" 
     alt="Postman" 
     title="Postman"
-    width="60px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
 />
@@ -100,13 +100,11 @@ My name is José Eliomar, I am a Java developer with over 5 years of experience,
     align="left" 
     alt="Git" 
     title="Git"
-    width="60px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<br/>
-<br/>
 <br/>
 <br/>
 
