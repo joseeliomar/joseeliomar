@@ -131,7 +131,7 @@ My name is José Eliomar, I am a Java developer with over 5 years of experience,
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseeliomar&theme=tokyonight&layout=compact&custom_title=Programming Languages&langs_count=10" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseeliomar&theme=tokyonight&layout=compact&custom_title=Programming+Languages&langs_count=10" 
   />
 
 </p>
