@@ -6,7 +6,7 @@ My name is José Eliomar, I am a Java developer with over 5 years of experience,
 
 ---
 
-### 🤖 Main Languages ​​and Technologies
+### 🤖 Languages ​​and Technologies
 
 <img 
     align="left" 
